@@ -1,5 +1,5 @@
 # PopCornFN Trojan Proof
-
+<div style="font-size: 10px;">
 File : PopCornFN.exe  (35 MB, PE32+ x86-64, unsigned)
 SHA256 : 8f9dd3fd86fa69a835405678380515058cd33167a91fc726fff54244aa784b92
 MD5 : ac3632745fb0af1a9fb8f39d292eafab
@@ -72,3 +72,4 @@ IF ALREADY RUN
 - reset proxy settings, remove rogue root CA
 - block bstlar.com + discord.gg/z8sZ9k2prv at fw/proxy
 - submit SHA256 to VT / SOC
+</div>

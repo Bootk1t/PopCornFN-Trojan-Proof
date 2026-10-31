@@ -1,3 +1,5 @@
+# PopCornFN Trojan Proof
+
 File : PopCornFN.exe  (35 MB, PE32+ x86-64, unsigned)
 SHA256 : 8f9dd3fd86fa69a835405678380515058cd33167a91fc726fff54244aa784b92
 MD5 : ac3632745fb0af1a9fb8f39d292eafab

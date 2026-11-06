@@ -62,14 +62,3 @@ Class : Trojan / infostealer / MITM proxy (fake Fortnite crack)
 Risk : HIGH
 Reasons : unsigned, packed (ent ~8.0), anti-dbg, mitmproxy MITM, clipboard cred theft, LDAP recon, kills EAC/Fortnite, C2 beacon, persistence, spread via warez (0x21cracks.com) + ad link locker (bstlar.com).
 
-
-IF ALREADY RUN
-- isolate host
-- change all acc passw, enable MFA
-- rotate creds/api keys/crypto addr (clipboard may have been read)
-- del C:\ProgramData\popcorn_mcp_config.json + red_hat.bin
-- rem popcorn_svc_* service
-- reset proxy settings, remove rogue root CA
-- block bstlar.com + discord.gg/z8sZ9k2prv at fw/proxy
-- submit SHA256 to VT / SOC
-</div>
